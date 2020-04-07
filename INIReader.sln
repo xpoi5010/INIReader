@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INIReader", "INIReader\INIReader.csproj", "{0C96870F-2D8A-47B1-9933-07842BD37076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INIReader.Test", "INIReader.Test\INIReader.Test.csproj", "{179CAE2D-703F-4B83-B4DC-DB7BCAD5B13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C96870F-2D8A-47B1-9933-07842BD37076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C96870F-2D8A-47B1-9933-07842BD37076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C96870F-2D8A-47B1-9933-07842BD37076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C96870F-2D8A-47B1-9933-07842BD37076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179CAE2D-703F-4B83-B4DC-DB7BCAD5B13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179CAE2D-703F-4B83-B4DC-DB7BCAD5B13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179CAE2D-703F-4B83-B4DC-DB7BCAD5B13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179CAE2D-703F-4B83-B4DC-DB7BCAD5B13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67149D6D-F45E-46B1-A550-EADC8E9846DB}
+	EndGlobalSection
+EndGlobal

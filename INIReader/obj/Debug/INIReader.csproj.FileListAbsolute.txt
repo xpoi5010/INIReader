@@ -1,0 +1,6 @@
+C:\Users\xpoi5\OneDrive\SourceCode\INIReader\INIReader\bin\Debug\INIReader.dll
+C:\Users\xpoi5\OneDrive\SourceCode\INIReader\INIReader\bin\Debug\INIReader.pdb
+C:\Users\xpoi5\OneDrive\SourceCode\INIReader\INIReader\obj\Debug\INIReader.csproj.CoreCompileInputs.cache
+C:\Users\xpoi5\OneDrive\SourceCode\INIReader\INIReader\obj\Debug\INIReader.dll
+C:\Users\xpoi5\OneDrive\SourceCode\INIReader\INIReader\obj\Debug\INIReader.pdb
+C:\Users\xpoi5\OneDrive\SourceCode\INIReader\INIReader\obj\Debug\INIReader.csprojAssemblyReference.cache
